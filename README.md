@@ -1,4 +1,4 @@
-# seeds-algorithm
+# Implementation of the seeds algorithm
 This repository hosts the implementation of the seeds-algorithm to compute the number of numerical semigroups of each given genus.
 
 For a quick survey on the sequence of the number of numerical semigroups of each given genus and the conjectures related to it see the entry http://oeis.org/A007323 in the On-line Encyclopedia of Integer Sequences.
